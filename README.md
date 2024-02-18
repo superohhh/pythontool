@@ -1,3 +1,5 @@
 ![image](https://github.com/superohhh/pythontool/assets/158996722/2c866f38-ec89-4b9b-901c-19d895181666)
-![image](https://github.com/superohhh/pythontool/assets/158996722/06f9652d-555a-47f0-8e30-da81eff7a442)
+![image](https://github.com/superohhh/pythontool/assets/158996722/3b4ed5d5-ffcd-42df-9c96-f8d0e40fbf72)
+![image](https://github.com/superohhh/pythontool/assets/158996722/d1b14007-1778-4479-ae38-685a86a11eba)
+![image](https://github.com/superohhh/pythontool/assets/158996722/7af4f0fe-bf27-499d-bfac-26c530189ede)
 ![image](https://github.com/superohhh/pythontool/assets/158996722/0a682b6d-e43a-4eb1-ad03-b6e405420327)
