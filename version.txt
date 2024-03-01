@@ -1,2 +1,2 @@
-1.1.6
+1.1.7
 https://raw.githubusercontent.com/superohhh/pythontool/main/pythontool.7z
